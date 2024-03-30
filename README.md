@@ -1,7 +1,7 @@
 title: Curso Avanzado de Inglés
 description: Mejora tu inglés en áreas específicas con este curso avanzado.
 
----# Ocultar el siguiente bloque en la renderización final
+---Ocultar el siguiente bloque en la renderización final
 ---
 
 ## Curso avanzado de inglés
